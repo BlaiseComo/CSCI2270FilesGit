@@ -1,0 +1,87 @@
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Average rating:8.525
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Enter minimum rating:
+Enter minimum year:
+Movies that came out after 1970 with rating at least 8.6:
+One Flew Over the Cuckoo's Nest (1975) 8.7
+Interstellar (2014) 8.6
+Inception (2010) 8.8
+Pulp Fiction (1994) 8.9
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Movie: 3 Idiots (8.4)
+Movie: Aliens (8.4)
+Movie: Django Unchained (8.4)
+Movie: Green Book (8.3)
+Movie: Inception (8.8)
+Movie: Interstellar (8.6)
+Movie: Modern Times (8.5)
+Movie: One Flew Over the Cuckoo's Nest (8.7)
+Movie: Psycho (8.5)
+Movie: Pulp Fiction (8.9)
+Movie: Seven Samurai (8.7)
+Movie: The Green Mile (8.5)
+Movie: The Lion King (8.5)
+Movie: Toy Story (8.3)
+Movie: Whiplash (8.5)
+Movie: Witness for the Prosecution (8.4)
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Enter Level k: 
+Movie: Interstellar (8.6)
+Movie: Seven Samurai (8.7)
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Enter Level k: 
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Enter title:
+Movie Info:
+==================
+Ranking:6
+Title  :Pulp Fiction
+Year   :1994
+Rating :8.9
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Goodbye!
+
+[GRADER] No leaked memory (Good).

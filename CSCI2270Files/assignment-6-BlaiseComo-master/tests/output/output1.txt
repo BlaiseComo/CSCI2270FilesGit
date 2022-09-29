@@ -1,0 +1,55 @@
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Movie: Coco (I) (8.4)
+Movie: Das Boot (8.4)
+Movie: Django Unchained (8.4)
+Movie: Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (8.4)
+Movie: Green Book (8.3)
+Movie: Inception (8.8)
+Movie: Modern Times (8.5)
+Movie: Pulp Fiction (8.9)
+Movie: Terminator 2: Judgment Day (8.5)
+Movie: The Green Mile (8.5)
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Enter title:
+Movie Info:
+==================
+Ranking:60
+Title  :Coco (I)
+Year   :2017
+Rating :8.4
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Enter minimum rating:
+Enter minimum year:
+Movies that came out after 2000 with rating at least 8.3:
+Green Book (2018) 8.3
+Django Unchained (2012) 8.4
+Coco (I) (2017) 8.4
+Inception (2010) 8.8
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Goodbye!
+
+[GRADER] No leaked memory (Good).

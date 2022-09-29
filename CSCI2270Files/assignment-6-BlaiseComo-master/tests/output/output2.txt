@@ -1,0 +1,67 @@
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Movie: 12 Angry Men (8.9)
+Movie: Alien (8.5)
+Movie: Back to the Future (8.5)
+Movie: Forrest Gump (8.8)
+Movie: Grave of the Fireflies (8.5)
+Movie: Inglourious Basterds (8.3)
+Movie: Life Is Beautiful (8.6)
+Movie: My Father and My Son (8.4)
+Movie: Oldboy (8.4)
+Movie: Raiders of the Lost Ark (8.5)
+Movie: Star Wars: Episode V - The Empire Strikes Back (8.8)
+Movie: The Lord of the Rings: The Two Towers (8.7)
+Movie: The Pianist (8.5)
+Movie: The Prestige (8.5)
+Movie: Toy Story 3 (8.3)
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Average rating:8.54667
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Enter Level k: 
+Movie: Grave of the Fireflies (8.5)
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Enter Level k: 
+Movie: Alien (8.5)
+Movie: Toy Story 3 (8.3)
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Enter Level k: 
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Goodbye!
+
+[GRADER] No leaked memory (Good).

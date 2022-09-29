@@ -1,0 +1,81 @@
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Movie: A Separation (8.3)
+Movie: Andhadhun (8.6)
+Movie: Casablanca (8.5)
+Movie: Children of Heaven (8.3)
+Movie: Gladiator (8.5)
+Movie: Goodfellas (8.7)
+Movie: Like Stars on Earth (8.4)
+Movie: Once Upon a Time in the West (8.5)
+Movie: Scarface (8.3)
+Movie: Schindler's List (8.9)
+Movie: Snatch (8.3)
+Movie: Star Wars: Episode IV - A New Hope (8.6)
+Movie: The Godfather: Part II (9)
+Movie: The Great Dictator (8.5)
+Movie: The Shining (8.4)
+Movie: The Silence of the Lambs (8.6)
+Movie: WALL-E (8.4)
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Enter Level k: 
+Movie: Casablanca (8.5)
+Movie: The Great Dictator (8.5)
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Enter title:
+Movie not found.
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Enter title:
+Movie Info:
+==================
+Ranking:41
+Title  :Gladiator
+Year   :2000
+Rating :8.5
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Enter minimum rating:
+Enter minimum year:
+Movies that came out after 1990 with rating at least 8.5:
+The Silence of the Lambs (1991) 8.6
+Andhadhun (2018) 8.6
+Gladiator (2000) 8.5
+Schindler's List (1993) 8.9
+======Main Menu======
+1. Find a movie
+2. Query movies
+3. Print the inventory
+4. Average Rating of movies
+5. Print Movies at Distance k
+6. Quit
+> Goodbye!
+
+[GRADER] No leaked memory (Good).
