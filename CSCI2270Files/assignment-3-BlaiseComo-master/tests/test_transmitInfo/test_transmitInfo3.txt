@@ -1,0 +1,11 @@
+adding: MAVEN (HEAD)
+adding: JUNO (HEAD)
+adding: PIONEER (HEAD)
+adding: GALILEO (HEAD)
+adding: KEPLER (HEAD)
+adding: TESS (HEAD)
+** Default network constructed
+== CURRENT PATH ==
+TESS(2) -> KEPLER(10) -> GALILEO(6) -> PIONEER(5) -> JUNO(4) -> MAVEN(9) -> NULL
+===
+Satellite not found

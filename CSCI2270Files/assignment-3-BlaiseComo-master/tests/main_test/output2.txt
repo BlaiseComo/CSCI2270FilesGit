@@ -1,0 +1,89 @@
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Info 
+ 4. Add Satellite 
+ 5. Quit 
++-----------------------+
+#> adding: MAVEN (HEAD)
+adding: JUNO (HEAD)
+adding: PIONEER (HEAD)
+adding: GALILEO (HEAD)
+adding: KEPLER (HEAD)
+adding: TESS (HEAD)
+== CURRENT PATH ==
+TESS(2) -> KEPLER(10) -> GALILEO(6) -> PIONEER(5) -> JUNO(4) -> MAVEN(9) -> NULL
+===
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Info 
+ 4. Add Satellite 
+ 5. Quit 
++-----------------------+
+#> == CURRENT PATH ==
+TESS(2) -> KEPLER(10) -> GALILEO(6) -> PIONEER(5) -> JUNO(4) -> MAVEN(9) -> NULL
+===
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Info 
+ 4. Add Satellite 
+ 5. Quit 
++-----------------------+
+#> Enter a new satellite name: 
+Enter distance of satellite from earth: 
+Enter the previous satellite name (or First): 
+INVALID(previous satellite name)...Please enter a VALID satellite name!
+adding: NORLIN (prev: KEPLER)
+== CURRENT PATH ==
+TESS(2) -> KEPLER(10) -> NORLIN(10) -> GALILEO(6) -> PIONEER(5) -> JUNO(4) -> MAVEN(9) -> NULL
+===
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Info 
+ 4. Add Satellite 
+ 5. Quit 
++-----------------------+
+#> == CURRENT PATH ==
+TESS(2) -> KEPLER(10) -> NORLIN(10) -> GALILEO(6) -> PIONEER(5) -> JUNO(4) -> MAVEN(9) -> NULL
+===
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Info 
+ 4. Add Satellite 
+ 5. Quit 
++-----------------------+
+#> Enter name of the recipient to receive the message: 
+
+TESS [# messages received: 1] received: distance of TESS from earth is 2
+KEPLER [# messages received: 1] received: distance of KEPLER from earth is 10
+NORLIN [# messages received: 1] received: distance of NORLIN from earth is 10
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Info 
+ 4. Add Satellite 
+ 5. Quit 
++-----------------------+
+#> Enter name of the recipient to receive the message: 
+
+TESS [# messages received: 2] received: distance of TESS from earth is 2
+Select a numerical option: 
++=====Main Menu=========+
+ 1. Build Network 
+ 2. Print Network Path 
+ 3. Broadcast Info 
+ 4. Add Satellite 
+ 5. Quit 
++-----------------------+
+#> Quitting...
+Goodbye!
